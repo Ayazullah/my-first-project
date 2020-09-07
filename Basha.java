@@ -1,6 +1,6 @@
  // Your First Program
 
-class I'm ayazullah, I'm from palamaner {
+class Basha {
 
     public static void main(String[] args) {
         // Prints "Hello World, DevOps has arrived!" to the terminal window.
